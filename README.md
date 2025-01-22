@@ -1,2 +1,2 @@
 # cryptocli
-A lightweight cli for linuc for crypto functionality
+A lightweight cli for linux for crypto functionality
